@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dinel52/stay-healthy-final-project/static/css/main.15049932.css",
-    "main.js": "/Dinel52/stay-healthy-final-project/static/js/main.db7e7781.js",
-    "static/js/453.a743e25c.chunk.js": "/Dinel52/stay-healthy-final-project/static/js/453.a743e25c.chunk.js",
-    "index.html": "/Dinel52/stay-healthy-final-project/index.html",
-    "main.15049932.css.map": "/Dinel52/stay-healthy-final-project/static/css/main.15049932.css.map",
-    "main.db7e7781.js.map": "/Dinel52/stay-healthy-final-project/static/js/main.db7e7781.js.map",
-    "453.a743e25c.chunk.js.map": "/Dinel52/stay-healthy-final-project/static/js/453.a743e25c.chunk.js.map"
+    "main.css": "/stay-healthy-final-project/static/css/main.15049932.css",
+    "main.js": "/stay-healthy-final-project/static/js/main.bababd8c.js",
+    "static/js/453.a743e25c.chunk.js": "/stay-healthy-final-project/static/js/453.a743e25c.chunk.js",
+    "index.html": "/stay-healthy-final-project/index.html",
+    "main.15049932.css.map": "/stay-healthy-final-project/static/css/main.15049932.css.map",
+    "main.bababd8c.js.map": "/stay-healthy-final-project/static/js/main.bababd8c.js.map",
+    "453.a743e25c.chunk.js.map": "/stay-healthy-final-project/static/js/453.a743e25c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15049932.css",
-    "static/js/main.db7e7781.js"
+    "static/js/main.bababd8c.js"
   ]
 }
