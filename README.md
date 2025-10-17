@@ -25,7 +25,7 @@ StayHealthy is a web-based healthcare application that allows patients to book a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tvoj-username/stayhealthy-app.git
+git clone https://github.com/Dinel52/stayhealthy-app.git
 ```
 
 2. Install dependencies:
