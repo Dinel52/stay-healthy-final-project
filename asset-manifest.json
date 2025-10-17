@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dinel52/stay-healthy-final-project/static/css/main.76690865.css",
+    "main.js": "/Dinel52/stay-healthy-final-project/static/js/main.1ee66354.js",
+    "static/js/453.a743e25c.chunk.js": "/Dinel52/stay-healthy-final-project/static/js/453.a743e25c.chunk.js",
+    "index.html": "/Dinel52/stay-healthy-final-project/index.html",
+    "main.76690865.css.map": "/Dinel52/stay-healthy-final-project/static/css/main.76690865.css.map",
+    "main.1ee66354.js.map": "/Dinel52/stay-healthy-final-project/static/js/main.1ee66354.js.map",
+    "453.a743e25c.chunk.js.map": "/Dinel52/stay-healthy-final-project/static/js/453.a743e25c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76690865.css",
+    "static/js/main.1ee66354.js"
+  ]
+}
